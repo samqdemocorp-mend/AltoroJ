@@ -31,7 +31,7 @@ dependencies {
 		'org.glassfish.jersey.containers:jersey-container-servlet:2.27',
 		'org.glassfish.jersey.inject:jersey-hk2:2.27',
 			'log4j:log4j:1.2.17',
-		'org.json:json:20220924'
+		'org.json:json:20231013'
 	compileOnly  \
 		'javax:javaee-api:7.0'
 }
