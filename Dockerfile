@@ -1,4 +1,4 @@
-FROM tomcat:7
+FROM tomcat:10
 USER root
 
 ADD https://github.com/HCL-TECH-SOFTWARE/AltoroJ/releases/download/v3.4/altoromutual.war /usr/local/tomcat/webapps
